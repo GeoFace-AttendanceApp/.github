@@ -1,4 +1,4 @@
-![Logo](https://github.com/user-attachments/assets/8b94f792-9110-4892-be83-bad34e279361)
+![Logo Geoface Resize](https://github.com/user-attachments/assets/e7509107-c1f6-452c-a5da-abb8b9b3db2e)
 
 # GeoFace - Attendance App
 
